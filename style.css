@@ -1,0 +1,9 @@
+.camera{
+ display: flex;
+}
+.click{
+    color: rgb(233, 34, 100);
+}
+.half{
+    width: 50%;
+}
