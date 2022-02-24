@@ -1,18 +1,50 @@
-.flex{
-    display: flex;
-    
-}
+
+
+
 .half{
-   width: 50%;
+    width: 50%;
 }
 .half img{
-    width: 20%;
+    width: 80%;
 }
+.sec{
+    margin-left: 2%;
+    padding: 4%;
+    margin-right:5%;
+    padding-bottom: 4%;
+
+}
+
+
 .button{
-    background-color: rgb(255, 102, 0);
-    color: rgb(0, 0, 0);
-    background-image: linear-gradient(orange,red);
+    background-color: rgb(136, 4, 107);
+    color: rgb(255, 255, 255);
+  
     text-decoration: none;
-    padding: 10px 30px;
+    padding: 10px 50px;
     border-radius: 5px;
+}
+.flex{
+    display: flex;
+}
+.box img{
+    align-items: center;
+}
+.box{
+    
+    width: 30%;
+   margin-left: 3%;
+   margin-right: 3%;
+   
+    border-radius: 5%;
+    padding-left: 20px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 3px 3px 3px  rgb(131, 126, 126);
+    
+    
+    
+
+}
+.span{
+    text-align: center;
 }
