@@ -3,6 +3,7 @@
 
 .half{
     width: 50%;
+   
 }
 .half img{
     width: 80%;
@@ -14,12 +15,19 @@
     
 
 }
+.more{
+    color: rgb(255, 67, 155);
+justify-content: left;
+text-size-adjust: 30px 30px;
+text-decoration: none;
+
+}
 
 
 .button{
     background-color: rgb(136, 4, 107);
     color: rgb(255, 255, 255);
-  margin-top: 30%;
+   margin-top: 30%;
     text-decoration: none;
     padding: 10px 50px;
     border-radius: 5px;
@@ -37,11 +45,11 @@ height: 476px;
 left: 196px;
 top: 1541px;
 padding-top: 15px;
-padding-left: 20px;
+padding-left: 30px;
 margin-left: 15px;
  
     background-color: rgb(255, 255, 255);
-    box-shadow: 6px 6px 6px rgb(131, 126, 126);
+    box-shadow: 6px 6px 6px 6px rgb(131, 126, 126);
     
     
     
@@ -51,3 +59,17 @@ margin-left: 15px;
     text-align: center;
   
 }
+.arrow {
+    border: solid black;
+    border-width: 0 1px 1px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+
+  }
+  .position{
+      position: absolute;
+      left: 1100px;
+      
+  }
