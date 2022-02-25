@@ -140,7 +140,7 @@ color: orange;
     opacity: 0.8;
       width: 100%;
       margin-top: 30px;
-      height: 500px;
+      height: 450px;
   }
   .promote h1{
       padding-top: 120px;
@@ -148,7 +148,7 @@ color: orange;
       color: rgb(0, 0, 0);
   }
   article{
-      padding-left: 80px;
+    
       padding: 80px 80px 80px 80px;
       text-align: center;
       color: rgb(0, 0, 0);
