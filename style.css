@@ -106,4 +106,15 @@ margin-left: 15px;
         width: 100%;
       }
   }
+  /* Mouse dekhlei
+  natok korbe */
+  .dhong:hover{
+transform: rotate(-180deg);
+  }
+  .dhong{
+      transition: transform 5s;
+  }
+  .rate{
+color: orange;
+  }
  
