@@ -114,7 +114,7 @@ margin-left: 15px;
   @media only screen and (min-width: 668px) and (max-width:992px) {
       .flex{
           
-         background-color: red;
+        
         flex-direction: column;
         flex: 50%;
                 width: 50% !important;
@@ -143,7 +143,7 @@ color: orange;
       height: 500px;
   }
   .promote h1{
-      padding-top: 100px;
+      padding-top: 120px;
       text-align: center;
       color: rgb(0, 0, 0);
   }
